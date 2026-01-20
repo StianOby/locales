@@ -566,7 +566,7 @@
 
     <!-- VERB ROLE FORMS -->
     <term name="chair" form="verb">leda av</term>
-    <term name="collection-editor" form="verb">edited by</term>
+    <term name="collection-editor" form="verb">redigert av</term>
     <term name="compiler" form="verb">kompilert av</term>
     <term name="container-author" form="verb">av</term>
     <term name="contributor" form="verb">med</term>
